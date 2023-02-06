@@ -1,0 +1,56 @@
+
+body{
+    margin-top: px;
+    background-color: gray;
+    padding-top:15%;
+   
+    font-family: 'Courier New', Courier, monospace;
+
+   
+}
+
+.Form{
+    
+    border: 2px solid grey;
+    border-radius: 12px;
+    box-shadow: 9px 10px rgb(71, 66, 66);
+    background-color: lightgray;
+    display: inline-block;
+    width: max-content;
+    height: max-content;
+    padding: 20px;
+}
+.content{
+    margin-bottom: 5px;
+    padding: 5px;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.content input{
+    border-color: antiquewhite;
+    box-shadow: 2px gray;
+}
+.content input:hover{
+    border-radius: 2px;
+    border-color: lightgray;
+}
+#reset:hover{
+    text-decoration: line-through;
+    background-color: lightslategray;
+    border-color: lightgrey;
+
+
+    
+}
+#sub:hover{
+    border-color: lightgrey;
+    background-color: lightslategray;
+    
+}
+h3:hover{
+    text-decoration: underline;
+   
+}
+
+
